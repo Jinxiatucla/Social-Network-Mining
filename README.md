@@ -22,7 +22,6 @@ This folder is for Project 2 Social Network Mining. It contains two main parts.
 
 Results:
 ---
-The instruction of steps are in 
 The results are in file 232E PJ2.pdf.
 
 Usage
