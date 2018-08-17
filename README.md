@@ -12,6 +12,9 @@ Project 2
 └── part2_21_22.ipynb
 
 ```
+Problem Statement:
+---
+Project2_statement.pdf
 
 Introduction
 ---
