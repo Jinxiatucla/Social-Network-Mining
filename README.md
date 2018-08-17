@@ -35,4 +35,4 @@ Usage
 
 Contributors:
 ---
-Committed by Jinxi Zou, Qinyi Tang, Shuo Bai, Xuan Hu. Original project page: https://github.com/bai3shuo4/232E/tree/master/Project1
+Committed by Jinxi Zou, Qinyi Tang, Shuo Bai, Xuan Hu. Original project page: https://github.com/bai3shuo4/232E/tree/master/Project2
